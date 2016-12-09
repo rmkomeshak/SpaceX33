@@ -1,0 +1,13 @@
+    #pane{
+        -fx-background-image: url("file:resource/Images/static_back.png");
+        -fx-background-repeat: stretch;   
+        -fx-background-size: 750 950;
+        -fx-background-position: center center;
+    }
+    
+    .text{
+        -fx-text-fill: white;
+    }
+
+
+
